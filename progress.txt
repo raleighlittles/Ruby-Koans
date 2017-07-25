@@ -1,0 +1,14 @@
+AboutRegularExpressions#test_a_pattern_is_a_regular_expression has damaged your karma.
+
+The Master says:
+  You have not yet reached enlightenment.
+  Do not lose hope.
+
+The answers you seek...
+  Expected "FILL ME IN" to equal Regexp
+
+Please meditate on the following code:
+  H:/Programming/Ruby/rubykoans/about_regular_expressions.rb:6:in `test_a_pattern_is_a_regular_expression'
+
+remember that silence is sometimes the best answer
+your path thus far [..............X___________________________________] 83/282
