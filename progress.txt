@@ -1,14 +1,14 @@
-AboutRegularExpressions#test_a_pattern_is_a_regular_expression has damaged your karma.
+AboutMethods#test_calling_global_methods has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal Regexp
+  Expected "FILL ME IN" to equal 5
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_regular_expressions.rb:6:in `test_a_pattern_is_a_regular_expression'
+  H:/Programming/Ruby/rubykoans/about_methods.rb:10:in `test_calling_global_methods'
 
-remember that silence is sometimes the best answer
-your path thus far [..............X___________________________________] 83/282
+mountains are merely mountains
+your path thus far [...................X______________________________] 110/282
