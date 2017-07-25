@@ -1,14 +1,14 @@
-AboutMethods#test_calling_global_methods has damaged your karma.
+AboutKeywordArguments#test_keyword_arguments has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal 5
+  Expected "FILL ME IN" to equal Array
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_methods.rb:10:in `test_calling_global_methods'
+  H:/Programming/Ruby/rubykoans/about_keyword_arguments.rb:10:in `test_keyword_arguments'
 
-mountains are merely mountains
-your path thus far [...................X______________________________] 110/282
+remember that silence is sometimes the best answer
+your path thus far [.....................X____________________________] 124/282
