@@ -1,14 +1,14 @@
-AboutIteration#test_each_is_a_method_on_arrays has damaged your karma.
+AboutBlocks#test_methods_can_take_blocks has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal true
+  Expected "FILL ME IN" to equal 3
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_iteration.rb:27:in `test_each_is_a_method_on_arrays'
+  H:/Programming/Ruby/rubykoans/about_blocks.rb:11:in `test_methods_can_take_blocks'
 
-learn the rules so you know how to break them properly
-your path thus far [............................X_____________________] 161/282
+mountains are merely mountains
+your path thus far [..............................X___________________] 170/282
