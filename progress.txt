@@ -1,14 +1,14 @@
-AboutTrueAndFalse#test_true_is_treated_as_true has damaged your karma.
+AboutTriangleProject#test_equilateral_triangles_have_equal_sides has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal :true_stuff
+  Expected :equilateral to equal nil
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_true_and_false.rb:13:in `test_true_is_treated_as_true'
+  H:/Programming/Ruby/rubykoans/about_triangle_project.rb:8:in `test_equilateral_triangles_have_equal_sides'
 
-when you lose, don't lose the lesson
-your path thus far [..........................X_______________________] 148/282
+learn the rules so you know how to break them properly
+your path thus far [..........................X_______________________] 152/282
