@@ -1,14 +1,14 @@
-AboutExceptions#test_exceptions_inherit_from_Exception has damaged your karma.
+AboutTriangleProject2#test_illegal_triangles_throw_exceptions has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal RuntimeError
+  Exception TriangleError expected, but nothing raised
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_exceptions.rb:9:in `test_exceptions_inherit_from_Exception'
+  H:/Programming/Ruby/rubykoans/about_triangle_project_2.rb:10:in `test_illegal_triangles_throw_exceptions'
 
-sleep is the best meditation
-your path thus far [...........................X______________________] 155/282
+mountains are merely mountains
+your path thus far [............................X_____________________] 160/282
