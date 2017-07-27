@@ -1,14 +1,14 @@
-AboutControlStatements#test_if_then_else_statements has damaged your karma.
+AboutTrueAndFalse#test_true_is_treated_as_true has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal :true_value
+  Expected "FILL ME IN" to equal :true_stuff
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_control_statements.rb:11:in `test_if_then_else_statements'
+  H:/Programming/Ruby/rubykoans/about_true_and_false.rb:13:in `test_true_is_treated_as_true'
 
-remember that silence is sometimes the best answer
-your path thus far [.......................X__________________________] 133/282
+when you lose, don't lose the lesson
+your path thus far [..........................X_______________________] 148/282
