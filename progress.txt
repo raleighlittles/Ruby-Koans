@@ -1,14 +1,14 @@
-AboutConstants#test_nested_constants_may_also_be_referenced_with_relative_paths has damaged your karma.
+AboutControlStatements#test_if_then_else_statements has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal "nested"
+  Expected "FILL ME IN" to equal :true_value
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_constants.rb:10:in `test_nested_constants_may_also_be_referenced_with_relative_paths'
+  H:/Programming/Ruby/rubykoans/about_control_statements.rb:11:in `test_if_then_else_statements'
 
-sleep is the best meditation
-your path thus far [......................X___________________________] 126/282
+remember that silence is sometimes the best answer
+your path thus far [.......................X__________________________] 133/282
