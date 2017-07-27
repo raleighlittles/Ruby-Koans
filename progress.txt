@@ -1,14 +1,14 @@
-AboutTriangleProject#test_equilateral_triangles_have_equal_sides has damaged your karma.
+AboutExceptions#test_exceptions_inherit_from_Exception has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected :equilateral to equal nil
+  Expected "FILL ME IN" to equal RuntimeError
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_triangle_project.rb:8:in `test_equilateral_triangles_have_equal_sides'
+  H:/Programming/Ruby/rubykoans/about_exceptions.rb:9:in `test_exceptions_inherit_from_Exception'
 
-learn the rules so you know how to break them properly
-your path thus far [..........................X_______________________] 152/282
+sleep is the best meditation
+your path thus far [...........................X______________________] 155/282
