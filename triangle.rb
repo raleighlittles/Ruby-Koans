@@ -17,6 +17,13 @@ def triangle(a, b, c)
   # WRITE THIS CODE
 
   side_lengths = [a, b, c]
+
+  # if the side lengths are either 0 or negative, throw an exception
+  raise TriangleError if side_lengths.min <= 0
+
+  a, b, c = side_lengths.sort
+  raise TriangleError if a + b <= c
+
   # if the maximum and minimum of the array are the same, return equilateral
   if (side_lengths.max == side_lengths.min)
     return :equilateral
