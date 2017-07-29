@@ -1,14 +1,14 @@
-AboutInheritance#test_subclasses_have_the_parent_as_an_ancestor has damaged your karma.
+AboutModules#test_cant_instantiate_modules has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal true
+  Exception FillMeInError expected, but #<NoMethodError: undefined method `new' for AboutModules::Nameable:Module> was raised
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_inheritance.rb:27:in `test_subclasses_have_the_parent_as_an_ancestor'
+  H:/Programming/Ruby/rubykoans/about_modules.rb:15:in `test_cant_instantiate_modules'
 
-sleep is the best meditation
-your path thus far [......................................X___________] 216/282
+remember that silence is sometimes the best answer
+your path thus far [.......................................X__________] 223/282
