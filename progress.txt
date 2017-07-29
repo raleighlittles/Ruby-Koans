@@ -1,14 +1,14 @@
-AboutClasses#test_instances_of_classes_can_be_created_with_new has damaged your karma.
+AboutOpenClasses#test_as_defined_dogs_do_bark has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
-  I sense frustration. Do not be afraid to ask for help.
+  Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal AboutClasses::Dog
+  Expected "FILL ME IN" to equal "WOOF"
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_classes.rb:9:in `test_instances_of_classes_can_be_created_with_new'
+  H:/Programming/Ruby/rubykoans/about_open_classes.rb:12:in `test_as_defined_dogs_do_bark'
 
-learn the rules so you know how to break them properly
-your path thus far [..................................X_______________] 192/282
+when you lose, don't lose the lesson
+your path thus far [....................................X_____________] 208/282
