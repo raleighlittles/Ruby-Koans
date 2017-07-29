@@ -1,14 +1,14 @@
-AboutOpenClasses#test_as_defined_dogs_do_bark has damaged your karma.
+AboutDiceProject#test_can_create_a_dice_set has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal "WOOF"
+  uninitialized constant AboutDiceProject::DiceSet
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_open_classes.rb:12:in `test_as_defined_dogs_do_bark'
+  H:/Programming/Ruby/rubykoans/about_dice_project.rb:11:in `test_can_create_a_dice_set'
 
-when you lose, don't lose the lesson
-your path thus far [....................................X_____________] 208/282
+learn the rules so you know how to break them properly
+your path thus far [.....................................X____________] 211/282
