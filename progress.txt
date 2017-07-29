@@ -1,14 +1,14 @@
-AboutScoringProject#test_score_of_an_empty_list_is_zero has damaged your karma.
+AboutClasses#test_instances_of_classes_can_be_created_with_new has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
-  Do not lose hope.
+  I sense frustration. Do not be afraid to ask for help.
 
 The answers you seek...
-  Expected 0 to equal nil
+  Expected "FILL ME IN" to equal AboutClasses::Dog
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_scoring_project.rb:38:in `test_score_of_an_empty_list_is_zero'
+  H:/Programming/Ruby/rubykoans/about_classes.rb:9:in `test_instances_of_classes_can_be_created_with_new'
 
-remember that silence is sometimes the best answer
-your path thus far [................................X_________________] 184/282
+learn the rules so you know how to break them properly
+your path thus far [..................................X_______________] 192/282
