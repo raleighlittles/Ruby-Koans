@@ -1,14 +1,14 @@
-AboutProxyObjectProject#test_tv_methods_still_perform_their_function has damaged your karma.
+AboutToStr#test_to_s_returns_a_string_representation has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  undefined method `channel=' for #<Proxy:0x000000033006a8 @object=#<Television:0x000000033006d0>>
+  Expected "FILL ME IN" to equal "non-string-like"
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_proxy_object_project.rb:39:in `test_tv_methods_still_perform_their_function'
+  H:/Programming/Ruby/rubykoans/about_to_str.rb:13:in `test_to_s_returns_a_string_representation'
 
 when you lose, don't lose the lesson
-your path thus far [...............................................X__] 267/282
+your path thus far [.................................................X] 277/282
