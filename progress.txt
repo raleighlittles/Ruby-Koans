@@ -1,14 +1,14 @@
-AboutDiceProject#test_can_create_a_dice_set has damaged your karma.
+AboutInheritance#test_subclasses_have_the_parent_as_an_ancestor has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  uninitialized constant AboutDiceProject::DiceSet
+  Expected "FILL ME IN" to equal true
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_dice_project.rb:11:in `test_can_create_a_dice_set'
+  H:/Programming/Ruby/rubykoans/about_inheritance.rb:27:in `test_subclasses_have_the_parent_as_an_ancestor'
 
-learn the rules so you know how to break them properly
-your path thus far [.....................................X____________] 211/282
+sleep is the best meditation
+your path thus far [......................................X___________] 216/282
