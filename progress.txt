@@ -1,14 +1,14 @@
-AboutClassMethods#test_objects_are_objects has damaged your karma.
+AboutMessagePassing#test_methods_can_be_invoked_more_dynamically has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Expected "FILL ME IN" to equal true
+  undefined method `caughtFILL ME IN' for #<AboutMessagePassing::MessageCatcher:0x00000002aa8c58>
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_class_methods.rb:9:in `test_objects_are_objects'
+  H:/Programming/Ruby/rubykoans/about_message_passing.rb:27:in `test_methods_can_be_invoked_more_dynamically'
 
-when you lose, don't lose the lesson
-your path thus far [..........................................X_______] 237/282
+sleep is the best meditation
+your path thus far [.............................................X____] 255/282
