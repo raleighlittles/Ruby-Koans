@@ -1,14 +1,14 @@
-AboutScope#test_dog_is_not_available_in_the_current_scope has damaged your karma.
+AboutClassMethods#test_objects_are_objects has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Exception FillMeInError expected, but #<NameError: uninitialized constant AboutScope::Dog> was raised
+  Expected "FILL ME IN" to equal true
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_scope.rb:21:in `test_dog_is_not_available_in_the_current_scope'
+  H:/Programming/Ruby/rubykoans/about_class_methods.rb:9:in `test_objects_are_objects'
 
 when you lose, don't lose the lesson
-your path thus far [........................................X_________] 228/282
+your path thus far [..........................................X_______] 237/282
