@@ -1,14 +1,14 @@
-AboutModules#test_cant_instantiate_modules has damaged your karma.
+AboutScope#test_dog_is_not_available_in_the_current_scope has damaged your karma.
 
 The Master says:
   You have not yet reached enlightenment.
   Do not lose hope.
 
 The answers you seek...
-  Exception FillMeInError expected, but #<NoMethodError: undefined method `new' for AboutModules::Nameable:Module> was raised
+  Exception FillMeInError expected, but #<NameError: uninitialized constant AboutScope::Dog> was raised
 
 Please meditate on the following code:
-  H:/Programming/Ruby/rubykoans/about_modules.rb:15:in `test_cant_instantiate_modules'
+  H:/Programming/Ruby/rubykoans/about_scope.rb:21:in `test_dog_is_not_available_in_the_current_scope'
 
-remember that silence is sometimes the best answer
-your path thus far [.......................................X__________] 223/282
+when you lose, don't lose the lesson
+your path thus far [........................................X_________] 228/282
