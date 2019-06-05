@@ -67,7 +67,7 @@ class AboutHashes < Neo::Koan
   def test_changing_hashes
     hash = { :one => "uno", :two => "dos" }
     hash[:one] = "eins"
-    # Hashes are immutable! So now the hash is:
+    # Hashes are mutable! So now the hash is:
 
     ##expected = { :one => __, :two => "dos" }
     expected = {:one => "eins", :two => "dos" }
